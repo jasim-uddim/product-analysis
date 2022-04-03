@@ -1,0 +1,51 @@
+[
+  {
+    "id": "624a1b39d3cb4ad61d17b32b",
+    "picture": "https://res.cloudinary.com/soundbetter/image/upload/c_limit,f_auto,h_860,w_1024/v1595962133/assets/photos/285487/2B2A2D39-B272-4F63-A33C-7E8AD2EBD713.jpg",
+    "rating": 3,
+    "name": "Lindsey Buckingham",
+    "about": "The guitar just had to make a broader statement, he says. Alex Lifeson reserves his most daring playing for his solos  just try wrapping your head around the extra ­terrestrial lunacy of Freewill."
+  },
+  {
+    "id": "624a1b398ea1c9f09325c931",
+    "picture": "https://zinginstruments.com/wp-content/uploads/2019/12/Man-with-guitar-and-amp-looking-down-the-road.png",
+    "rating": 2,
+    "name": "Thurston Moore",
+    "about": "Springsteen didn't make any technical breakthroughs on guitar, but few players are better at coaxing emotion from steel and wood: witness the surf-rock recklessness of the Born to Run solo, the junkyard-dog bite of Adam Raised a Cain and the melancholy twang of Tougher Than the Rest."
+  },
+  {
+    "id": "624a1b3999c4f5aaae5c553a",
+    "picture": "https://cdn.mos.cms.futurecdn.net/ap3ypKhMrnau7ymDNBR4yf.jpg",
+    "rating": 3,
+    "name": "Alex Lifeson",
+    "about": "One of modern metals key figures, Dimebag Darrell founded Pantera with his brother, drummer Vinnie Paul Abbott forging a style that combined brutally precise, punk-honed grooves with splatter-paint melodic runs."
+  },
+  {
+    "id": "624a1b393321076c1561e025",
+    "picture": "https://w7.pngwing.com/pngs/940/645/png-transparent-musician-guitarist-musical-ensemble-guitar-microphone-musician-guitarist.png",
+    "rating": 8,
+    "name": "Thompson Pate",
+    "about": "Patti Smith famously described Tom Verlaine's guitar sound as a thousand bluebirds screaming. Television's leader soaked up the flavor of favorite records by John Coltrane"
+  },
+  {
+    "id": "624a1b39d41fc67cfcb9db7c",
+    "picture": "https://images.indianexpress.com/2021/04/ankur-mukherjee-guitarist-help.jpg",
+    "rating": 6,
+    "name": "Galloway Franklin",
+    "about": "Starting with her acoustic slide workout on 1971's Walking Blues, Raitt rolled out a fearsome repertoire of blues licks, fingerpicking with the best and wielding a slide like an old master. Most of all, she set a crucial precedent"
+  },
+  {
+    "id": "624a1b390751bfc15bac1ea0",
+    "picture": "https://images.immediate.co.uk/production/volatile/sites/24/2020/05/segovias_625x350-0078d60.jpg?quality=90&resize=525%2C350",
+    "rating": 3,
+    "name": "Mccormick Myers",
+    "about": "There were precedents for the palm-muted, ultra-percussive chug James Hetfield gave Metallica (Judas Priest, Motörhead), but he made it the gold standard of Eighties metal"
+  },
+  {
+    "id": "624a1b39c47c9245ba773df7",
+    "picture": "https://takelessons.com/blog/wp-content/uploads/2015/06/10-Most-Influential-Guitarists-Who-Were-Technically-Not-Great.jpg",
+    "rating": 4,
+    "name": "Webb Finch",
+    "about": " He's never been a monochromatic headbanger, though, delving early on into the delicate picking of Fade to Black and later embracing the more nuanced hard rock of the Black Album. I wonder if James Hetfield knows how to play the drums"
+  }
+]

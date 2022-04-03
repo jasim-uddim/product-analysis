@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  padding-left: 120px;
+  padding-right: 120px;
+  height: 80px;
+  background-color: rgb(190, 190, 236);
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar a {
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 20px;
+}

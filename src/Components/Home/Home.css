@@ -17,12 +17,16 @@
   justify-content: center;
   align-items: center;
 }
-.home a {
+
+.btn .all-review {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-decoration: none;
   color: black;
-  border: 1px solid rgb(242, 234, 234);
+  border: 2px solid rgb(64, 227, 159);
+  background-color: rgb(115, 248, 248);
   border-radius: 10px;
-  background-color: rgb(205, 243, 221);
-  padding: 15px;
-  font-size: 25px;
+  font-size: 30px;
+  padding: 20px;
 }

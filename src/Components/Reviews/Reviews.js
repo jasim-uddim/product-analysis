@@ -1,9 +1,11 @@
-import React from "react";
-import useReviews from "../Hooks/useReviews";
+import React, { useContext } from "react";
+
 import Review from "./Review";
 import "./Reviews.css";
+import { ReviewContext } from "../../App";
 const Reviews = () => {
-  const [reviews, setReviews] = useReviews();
+  const [reviews] = useContext(ReviewContext);
+  console.log(reviews);
   return (
     <div className="reviews-container">
       {reviews.map((review) => (

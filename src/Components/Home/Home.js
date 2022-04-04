@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Link } from "react-router-dom";
+import { ReviewContext } from "../../App";
+import Review from "../Reviews/Review";
 import "./Home.css";
 const Home = () => {
+  const [reviews] = useContext(ReviewContext);
   return (
     <>
       <div className="home">
@@ -10,7 +13,6 @@ const Home = () => {
             src="https://sc1.musik-produktiv.com/pic-010120221xxl/ibanez-gio-grx40-mgn.jpg"
             alt="guitarImage"
           ></img>
-          <Link to="/reviews"> All Reviews</Link>
         </div>
         <div>
           <h1>Fender Player Stratocaster SSS Electric Guitar</h1>
@@ -28,6 +30,17 @@ const Home = () => {
       </div>
       <div className="review-container">
         <h1>Customer Reviews-(3)</h1>
+        <div className="reviews-container">
+          {reviews.slice(0, 3).map((review) => (
+            <Review key={review.id} review={review}></Review>
+          ))}
+        </div>
+      </div>
+      <div className="btn">
+        <Link className="all-review" to="/reviews">
+          {" "}
+          All Reviews
+        </Link>
       </div>
     </>
   );

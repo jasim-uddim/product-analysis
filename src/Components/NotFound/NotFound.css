@@ -1,0 +1,13 @@
+.not-found {
+  padding: 100px;
+  background-color: rgb(231, 242, 242);
+}
+
+.not-found h1,
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  padding: 5px;
+}

@@ -53,7 +53,7 @@ const MyCharts = () => {
 
   return (
     <div className="main-container">
-      <h1>Draw chart</h1>
+      <h1>Revenue Chart</h1>
       <div className="chart-container">
         <LineChart width={600} height={400} data={data}>
           <Line type="monotone" dataKey="sell" stroke="#8884d8"></Line>
